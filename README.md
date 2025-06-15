@@ -3,7 +3,12 @@
 
 This Tableau project explores employment trends across the UK from 2011 to 2014 using data sourced from the EMSI Job Change UK dataset. The aim of the analysis is to identify key shifts in employment by industry, sub-industry, and geography, helping stakeholders understand workforce trends and regional economic dynamics.
 
+## ✅ Project Objectives
 
+- Identify sectors with the highest employment growth or decline.
+- Compare city-level employment trends.
+- Understand sub-industry dynamics.
+- Highlight regional employment hubs in the UK.
 
 
 ## 📊 Visualisations Included
@@ -38,12 +43,6 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 - **Dimensions Used**: Industry, Sub-Industry, City
 - **Metrics**: Total Employment, Employment Change, % Change
 
-## ✅ Project Objectives
-
-- Identify sectors with the highest employment growth or decline.
-- Compare city-level employment trends.
-- Understand sub-industry dynamics.
-- Highlight regional employment hubs in the UK.
 
 ## 📌 Tools Used
 
