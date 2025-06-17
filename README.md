@@ -55,6 +55,10 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 [Link to My Dashboard](https://public.tableau.com/app/profile/susana.de.lama/viz/UKEmploymentdata_17466160810580/Dashboard1)
 ![image](https://github.com/user-attachments/assets/fd140d81-e6f3-49b7-8817-81f61f80c324)
 
+---
+Created by Susana-dLG
+May 2025
+
 
 
 
