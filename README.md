@@ -32,7 +32,8 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 
 5. **Top 10 Cities by Total Employment (2014)**  
    Identifies the cities with the highest total employment in 2014, highlighting the UK’s major employment centres.
-   ![image](https://github.com/user-attachments/assets/9bb17e24-a2dc-4c38-98d1-51078d279b84)
+   ![image](<img width="1480" height="778" alt="image" src="https://github.com/user-attachments/assets/32e9b674-436d-4132-9015-9481a21dbb55" />
+)
 
 
 
