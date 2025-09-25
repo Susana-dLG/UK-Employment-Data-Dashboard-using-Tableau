@@ -21,7 +21,7 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 
 3. **Average % Change in Employment by Cities**  
    Displays the average percentage change in employment for each city, offering a comparative view of urban workforce growth or decline.
-   ![image](https://github.com/user-attachments/assets/c318bed8-8eab-462d-9e85-6697e9049636)
+   ![image](https://github.com/user-attachments/assets/58f3eef5-c33d-44ee-84d8-a6c5a1c42885" />
 
 
 4. **Top 10 Sub-Industries by Change in Employment (2011–2014)**  
