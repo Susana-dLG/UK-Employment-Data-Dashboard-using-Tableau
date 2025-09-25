@@ -68,7 +68,7 @@ The Tableau dashboard created from this dataset enables:
   
 ## My Dashboard
   
-[Link to My Dashboard][https://public.tableau.com/app/profile/susana.de.lama/viz/UKEmploymentDashboard_17588324472010/Dashboard1]
+[Link to My Dashboard](https://public.tableau.com/app/profile/susana.de.lama/viz/UKEmploymentDashboard_17588324472010/Dashboard1)
 <img width="1620" height="844" alt="Screenshot 2025-09-25 205245" src="https://github.com/user-attachments/assets/6f63dcc8-8ebd-46ee-aec4-dd053e0a8b63" />
 
 
