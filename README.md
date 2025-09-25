@@ -16,7 +16,8 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 1. **Top 10 Industries by Change in Employment (2011–2014)**  
    Highlights the industries that experienced the largest absolute increase or decrease in employment over the 3-year period.
 
-   ![image](https://github.com/user-attachments/assets/eb063e61-4792-455c-ace9-596e9fac605d)
+   <img width="1480" height="778" alt="Screenshot 2025-09-25 204107" src="https://github.com/user-attachments/assets/3022176d-1ef9-47d7-84d9-27b17b02fb8c" />
+
 
 3. **Average % Change in Employment by Cities**  
    Displays the average percentage change in employment for each city, offering a comparative view of urban workforce growth or decline.
